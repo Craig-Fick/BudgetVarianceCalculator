@@ -2,7 +2,7 @@
 
 # INTRO
 
-This tool can be used to plug in a work schedule and examine hours/pay/overtime quickly.
+This tool  is a GUI written in Python that can be used to plug in a work schedule and examine hours/pay/overtime quickly. 
 
 
 CONTEXT
@@ -16,8 +16,15 @@ TUTORIAL
 Here you can see the first page along with a sample of the data used.
 
 
+![dash app demo](intro.PNG)
+
 On the next page, the tool can be examined. This is where a user would plug in the current hours of the employees and day of the scheduled period. You can not leave any entry blank. For example, if zero hours were worked then enter zero.
 
 
+![dash app demo](blank.PNG)
+
 
 After entering the needed information, click "CALCULATE" and all of the information should populate.
+
+
+![dash app demo](complete.PNG)
