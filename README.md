@@ -16,7 +16,7 @@ TUTORIAL
 Here you can see the first page along with a sample of the data used.
 
 
-![dash app demo](intro.PNG)
+![dash app demo](Intro.PNG)
 
 On the next page, the tool can be examined. This is where a user would plug in the current hours of the employees and day of the scheduled period. You can not leave any entry blank. For example, if zero hours were worked then enter zero.
 
